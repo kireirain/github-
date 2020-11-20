@@ -1,2 +1,3 @@
 # my-first-empty-project
-一个找存在感的空项目罢了
+github简单笔记：
+https://blog.csdn.net/weixin_41413511/article/details/105073305
